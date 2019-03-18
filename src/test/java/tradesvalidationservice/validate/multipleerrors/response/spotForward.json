@@ -1,0 +1,8 @@
+{
+  "status": "ERROR",
+  "messages": [
+    "Counterparty [PLUTO3] is not supported. Supported counterparties: [[PLUTO2, PLUTO1]]",
+    "Invalid currency pair [AURUSD]",
+    "Value date 2017-08-11 cannot be null and it has to be after trade date 2017-08-11 "
+  ]
+}
