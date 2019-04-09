@@ -1,5 +1,5 @@
 # tradesvalidationtests
-API Tests for a Trade Validation Service
+REST API Tests for a Trade Validation Service
 
 ### Motivation
 
